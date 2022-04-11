@@ -14,6 +14,7 @@ Extract the following data into the data format of sample files in "data/".
 - [OmegaWiki](http://omegawiki.org/)
 
 The gold data used in our experiments can be found below:
+
 -[WordNet-CLICS gold mapping][https://github.com/concepticon/concepticon-data/blob/master/concepticondata/concept_set_meta/wordnet.tsv]
 - [WordNet-OmegaWiki gold mapping][http://lcl.uniroma1.it/semalign/]
 
