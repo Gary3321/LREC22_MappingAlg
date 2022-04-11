@@ -119,10 +119,6 @@ class MapClicsWn:
                     print('Method name is invalid')
                     sys.exit(1)
 
-            # if cnt > 3:
-            #    break
-
-        # pair_file_name = method_name + '-'.join(target_lan_list) + self.dev_pickle_file
         pair_file_name = method_name + str(len(target_lan_list)) + self.dev_pickle_file
         print('pair_file_name:', pair_file_name)
 
